@@ -16,7 +16,7 @@ disponer del Programa de acuerdo a los siguientes términos:
     con cualquier propósito incluyendo pero no limitándose a la realización de
     copias de seguridad.
 
-  - Podrá modificar el Programa, también del código fuente si se dispone de
+  - Podrá modificar el Programa, también el código fuente si se dispone de
     éste, y realizar ingeniería inversa de todo o una parte del Programa, con
     cualquier propósito incluyendo pero no limitándose a la obtención de
     interoperabilidad, la corrección de errores, la combinación con otras obras
