@@ -1,6 +1,6 @@
 Licencia de Programación Libre 0.1 ("LPL 0.1")
 
-Derecho de autor © [AÑO], [NOMBRE COMPAÑÍA|PERSONA], [CONTACTO|CORREO]
+Derecho de autor © [AÑO], [NOMBRE], [CONTACTO|CORREO]
 
 Autorizo, de forma gratuita, a cualquier persona que obtenga una copia de este
 programa y de los archivos de documentación asociados (el "Programa"), a
